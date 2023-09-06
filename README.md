@@ -1,5 +1,7 @@
-### Hi there 👋
-
+##自我介绍
+- 我叫陈泽杰，来自福建泉州
+- 喜欢听音乐，看风景，打游戏
+-
 <!--
 **czejie/czejie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
