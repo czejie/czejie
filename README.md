@@ -1,7 +1,8 @@
 ##自我介绍
 - 我叫陈泽杰，来自福建泉州
-- 喜欢听音乐，看风景，打游戏
--
+- 喜欢听音乐，看风景，漫无目的毫无计划的旅游
+- 饿了知道去吃饭，下雨知道往家跑，一个普普通通的大学生
+- 对于前端开发和网络安全方面比较感兴趣，同时也希望多扩宽自己的知识面
 <!--
 **czejie/czejie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
